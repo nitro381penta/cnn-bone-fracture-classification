@@ -76,6 +76,5 @@ Exploring other activation functions (Leaky ReLU, Mish)
 Implementing a robust logging system in the Flask application
 
 
-Author
 Developed by Julia Nuss.
 
